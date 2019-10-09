@@ -62,7 +62,7 @@
 
 * [浙江省公共数据开放目录](http://data.zjzwfw.gov.cn/)
 * [山东公共数据开放网](http://data.sd.gov.cn/)
-* [福建省公共信息资源统一开放平台](https://data.fujian.gov.cn/odweb/)
+* [天津市公共信息资源统一开放平台](https://data.tj.gov.cn/)
 * [河南省公共数据开放平台](http://data.hnzwfw.gov.cn/odweb/)
 * [贵州省政府数据开放平台](http://data.guizhou.gov.cn/)
 * [成都市公共数据开放平台](http://www.cddata.gov.cn/)
@@ -118,9 +118,9 @@
 　　　　　　　　　<strong>季度GDP同比增长速度=（国内生产总值指数当季值-100)*100%</strong></br>
 
 </br>
-　　如图，<strong>选取统计指标“国内生产总值指数(上年同期=100)当季值”</strong>,以上列公式计算，即可得到各季度GDP同比增长速度
+　　如图，<strong>选取统计指标“国内生产总值指数(上年同期=100)当季值”</strong>,以上列公式计算，即可得到各季度GDP同比增长速度</br></br>
   
-![](https://github.com/hzykk/test/blob/master/jieguo.png)
+![](https://github.com/hzykk/task/blob/master/1009/tongbi.png)
 据上述数据，不难得到，结果如下：
       
 #### 2012-2018年各季度GDP同比增长速度（单位：%）
@@ -137,6 +137,6 @@
 
 同时，“国内生产总值环比增长速度”已有数据，无需计算即可得到结果，<strong>选取统计指标、数据页面与结果如图</strong></br>
 
-![](https://github.com/hzykk/test/blob/master/jieguo.png)
+![](https://github.com/hzykk/task/blob/master/1009/huanbi.png)
 
 </details>
