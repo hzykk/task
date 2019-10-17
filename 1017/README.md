@@ -15,6 +15,7 @@
 　　此处选取的相关可视化工具有SandDance，Power Bi，Tableau Public和BDP
 　　我选用的数据集名为<a href="https://www.kaggle.com/fivethirtyeight/fivethirtyeight-bad-drivers-dataset">FiveThirtyEight Bad Drivers Dataset</a>，通过Kaggle对此数据集的简介，可以了解到此数据集包含有美国五十个州及华盛顿特区的致死交通事故和车险费用的相关数据，数据源来自美国国家公路交通安全管理局和全美保险专员协会。
 　　我首先选择了免注册的在线工具SandDance，这款工具图表其实较少，多次尝试后，考虑到图表呈现，我基于不同州，选取“Number of drivers involved in fatal collisions per billion miles（每十亿英里里程涉致死交通事故的司机数量）”和“Car Insurance Premiums（车险保费）”两个指标做了散点图，x轴为各州，y轴为“车险保费”，以颜色的加深来指征可以体现事故率的“每十亿英里里程涉致死交通事故的司机数量”。为了方便数据的查看，又加上了平行于y轴的辅助线。
+  
 ![](./Sanddance.png)
 　　然后我下载了Power Bi和Tableau Public，Power Bi预置图表就可以直接以地图形式呈现数据，而且识别美国各州，就尝试做了一个（截图放弃了夏威夷和阿拉斯加），效果一般。
 ![](./Power1.png)
@@ -35,5 +36,5 @@
 <details>
   <summary>对相关工具的使用体会</summary>
   </br>
-待更新
+待更新,其实前面也写了些
 </details>
