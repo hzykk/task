@@ -8,9 +8,9 @@
 
 ### ggplot图
 
-![](/weixin_r.png)
+![](./weixin_r.png)
 
-![](/zuifan_r.png)
+![](./zuifan_r.png)
 
 ### 代码
 
